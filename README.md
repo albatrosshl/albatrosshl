@@ -1,6 +1,6 @@
 C++ feind. 15
 
-currently learning - or trying at least - c++ . . .
+currently learning - or trying at least - c++ & rust. . .
 
 
 my go to games are: Half Life (the whole series), Minecraft, Portal games
