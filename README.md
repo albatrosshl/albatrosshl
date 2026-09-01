@@ -1,2 +1,2 @@
-pro vibecoder with Fidosesk
+pro vibecoder with @Fidosesk
 
